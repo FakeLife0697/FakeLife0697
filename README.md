@@ -1,5 +1,5 @@
 ## About me:
-A random college student with a terrible humor.
+A random college student with a terrible sense of humors.
 
 
 ## Public Stats: (I won't show my private stats though :3)
