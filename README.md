@@ -1,4 +1,6 @@
-[![FakeLife0697's GitHub stats](https://github-readme-stats.vercel.app/api?username=FakeLife0697)](https://github.com/anuraghazra/github-readme-stats)
+[![FakeLife0697's GitHub stats](https://github-readme-stats.vercel.app/api?username=FakeLife0697&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FakeLife0697&size_weight=0.5&count_weight=0.5&hide=html,css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FakeLife0697/FakeLife0697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
