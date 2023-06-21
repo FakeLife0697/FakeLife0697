@@ -1,8 +1,8 @@
-## About me:
+# About me:
 A random college student with a terrible sense of humors.
 
 
-## Public Stats: (I won't show my private stats though :3)
+# Public Stats: (I won't show my private stats though :3)
 
 - General stats:
 
@@ -18,8 +18,8 @@ A random college student with a terrible sense of humors.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FakeLife0697&repo=HiddenBot-py&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Contact:
-- Discord: Fake Life#0697
+# Contact:
+- Discord: fakelife0697
 
 <!--
 **FakeLife0697/FakeLife0697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
